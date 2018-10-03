@@ -13,7 +13,7 @@ public class Principal  extends VerificarParidad{
 			try 
 			{
 				BufferedReader entrada = new BufferedReader(new InputStreamReader(System.in));
-				System.out.println("-------------------------------------------------------------------------");
+				System.out.println("--------------------------------------------------------------------------");
 				System.out.println("Ingrese a,para saber si los numeros a ingresar son impares");
 				System.out.println("Ingrese b,para saber si uno de los numeros a ingresar es multiplo de otro");
 				System.out.println("Ingrese s,para salir del programa");
